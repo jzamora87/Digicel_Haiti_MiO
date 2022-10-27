@@ -1,0 +1,25 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2012.01.04.16.58.17;	author jlopez;	state Exp;
+branches;
+next	;
+commitid	4WIlamQceT9hsSNv;
+
+
+desc
+@@
+
+
+1.1
+log
+@Digicel Proyect Haiti.
+MiO Node
+@
+text
+@1@
